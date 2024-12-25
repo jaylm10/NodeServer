@@ -1,0 +1,2 @@
+# Node Server
+Created node server. User has two buttons in home page. User can add his/her details to form and data will be handle through node and will be added in obj.json file locally. Then through "show users" button data will be fetched from obj.json and present to another page.
